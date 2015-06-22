@@ -1,0 +1,1 @@
+A utility that converts [SAPlink](http://saplink.org) NUGG and SLNK files into, for example, HTML or Wiki format for human consumption.
